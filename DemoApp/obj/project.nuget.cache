@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ExiVFKkk3+9sfdt3l0tH3bmBIx+XGmIkg06vYooqjVl2JRkyC5GyvymfZyMV2eQZJ2h+jB/ewbSK+oAHd7KbKg==",
+  "success": true,
+  "projectFilePath": "D:\\dotNET\\DemoApp\\DemoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

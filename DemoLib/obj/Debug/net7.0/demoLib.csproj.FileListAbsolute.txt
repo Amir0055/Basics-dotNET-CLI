@@ -1,0 +1,12 @@
+D:\dotNET\DemoLib\bin\Debug\net7.0\demoLib.deps.json
+D:\dotNET\DemoLib\bin\Debug\net7.0\demoLib.dll
+D:\dotNET\DemoLib\bin\Debug\net7.0\demoLib.pdb
+D:\dotNET\DemoLib\obj\Debug\net7.0\demoLib.csproj.AssemblyReference.cache
+D:\dotNET\DemoLib\obj\Debug\net7.0\demoLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNET\DemoLib\obj\Debug\net7.0\demoLib.AssemblyInfoInputs.cache
+D:\dotNET\DemoLib\obj\Debug\net7.0\demoLib.AssemblyInfo.cs
+D:\dotNET\DemoLib\obj\Debug\net7.0\demoLib.csproj.CoreCompileInputs.cache
+D:\dotNET\DemoLib\obj\Debug\net7.0\demoLib.dll
+D:\dotNET\DemoLib\obj\Debug\net7.0\refint\demoLib.dll
+D:\dotNET\DemoLib\obj\Debug\net7.0\demoLib.pdb
+D:\dotNET\DemoLib\obj\Debug\net7.0\ref\demoLib.dll
